@@ -1,0 +1,9 @@
+,Nome,In,C_1,C_2,C_3,Exit,Save,Time,Acerto,Erros
+0,Default,32,32,64,64,1,model_1_weights,0,99,1
+1,Default/2,16,16,32,32,1,model_2_weights,0,0,0
+2,Default*2,64,64,128,128,1,model_3_weights,0,0,0
+3,minimo,1,1,2,2,1,model_4_weights,0,0,0
+4,unitario,1,1,1,1,1,model_5_weights,0,0,0
+5,Default/4,8,8,16,16,1,model_6_weights,0,0,0
+6,Default/8,4,4,8,8,1,model_7_weights,0,0,0
+7,Default/16,2,2,4,4,1,model_8_weights,0,0,0
